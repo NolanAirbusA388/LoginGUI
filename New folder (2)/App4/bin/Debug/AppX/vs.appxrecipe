@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-GQ1HTGK</Machine>
+    <WindowsUser>nolan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1d7a44ee-a70a-4115-965c-cdd66ae8e58b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\nolan\documents\visual studio 2013\Projects\App4\App4\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>95A0FA7FF7E54FE31FD3199DE12F95FD521BE7798AB139634B25BC6C007223E8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1d7a44ee-a70a-4115-965c-cdd66ae8e58b_1.0.0.0_neutral__h4dvrf9ekmh08</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1d7a44ee-a70a-4115-965c-cdd66ae8e58b_h4dvrf9ekmh08!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1d7a44ee-a70a-4115-965c-cdd66ae8e58b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=nolan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nolan\documents\visual studio 2013\Projects\App4\App4\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-03-24T02:19:07.315</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nolan\documents\visual studio 2013\Projects\App4\App4\bin\Debug\Login GUI.exe">
+      <PackagePath>Login GUI.exe</PackagePath>
+      <Modified>2025-03-24T02:19:07.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nolan\documents\visual studio 2013\Projects\App4\App4\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T10:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nolan\documents\visual studio 2013\Projects\App4\App4\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T10:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nolan\documents\visual studio 2013\Projects\App4\App4\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T10:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nolan\documents\visual studio 2013\Projects\App4\App4\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T10:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nolan\documents\visual studio 2013\Projects\App4\App4\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2025-03-24T02:19:06.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nolan\documents\visual studio 2013\Projects\App4\App4\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2025-03-24T02:19:06.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nolan\documents\visual studio 2013\Projects\App4\App4\bin\Debug\Login GUI.xr.xml">
+      <PackagePath>Login GUI.xr.xml</PackagePath>
+      <Modified>2025-03-24T02:14:17.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nolan\documents\visual studio 2013\Projects\App4\App4\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2025-03-24T02:19:07.216</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
